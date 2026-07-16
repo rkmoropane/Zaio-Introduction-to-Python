@@ -16,13 +16,25 @@
  > Generate Image Using AI
 
 ## Basics
- [] Understand Python Scop
- [] Installation & Setup
- [] Varaibles & Datatypes
- [] Operators
+ [X] Understand Python Scop
+ [X] Installation & Setup
+ [X] Varaibles & Datatypes
+ [X] Operators
  [] Input / Output
  [] Control Statements
  [] Loops
  [] Strings and Characters
  [] Lists, Tuples and Dictionaries
  [] Functions
+
+## Questions & Answers:
+
+What is a variable in Python?
+ > A named location in memory to store a value
+
+How do you declare a variable in Python?
+ > `x = 5`
+
+What is the purpose of the id() function in Python?
+ > It returns the memory address of a variable.
+
